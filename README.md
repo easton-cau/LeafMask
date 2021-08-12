@@ -2,7 +2,7 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/leafmask-towards-greater-accuracy-on-leaf/instance-segmentation-on-leaf-segmentation)](https://paperswithcode.com/sota/instance-segmentation-on-leaf-segmentation?p=leafmask-towards-greater-accuracy-on-leaf)
 
-By Ruohao Guo, [Liao Qu](https://github.com/QuLiao1117), Dantong Niu, Zhenbo Li, Jun Yue
+By [Ruohao Guo](https://github.com/easton-cau), [Liao Qu](https://github.com/QuLiao1117), Dantong Niu, Zhenbo Li, Jun Yue
 
 ## Introduction
 
