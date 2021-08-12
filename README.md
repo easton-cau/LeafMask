@@ -10,7 +10,7 @@ This is the official implementation of the [LeafMask paper](https://arxiv.org/ab
 
 <img src="images/overview.jpg" alt="image" style="zoom:40%;" />
 
-
+We validate our LeafMask through extensive experiments on Leaf Segmentation Challenge (LSC) dataset. Our proposed model achieves the 90.09% BestDice score outperforming other state-of-the-art approaches.
 
 ## Citation
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
