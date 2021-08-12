@@ -1,4 +1,4 @@
-# LeafMask: Towards Greater Accuracy on Leaf Segmentation
+# LeafMask: Towards Greater Accuracy on Leaf Segmentation [ICCV 2021 workshop, CVPPA]
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/leafmask-towards-greater-accuracy-on-leaf/instance-segmentation-on-leaf-segmentation)](https://paperswithcode.com/sota/instance-segmentation-on-leaf-segmentation?p=leafmask-towards-greater-accuracy-on-leaf)
 
@@ -6,7 +6,7 @@ By [Ruohao Guo](https://github.com/easton-cau), [Liao Qu](https://github.com/QuL
 
 ## Introduction
 
-This is the official implementation of the core code of [LeafMask paper](https://arxiv.org/abs/2108.03568). This work is accepted by ICCV 2021 CVPPA workshop.
+This is the official implementation of the core code of [LeafMask paper](https://arxiv.org/abs/2108.03568).
 
 <img src="images/overview.jpg" alt="image" style="zoom:40%;" />
 
