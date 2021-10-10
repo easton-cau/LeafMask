@@ -16,9 +16,11 @@ We validate our LeafMask through extensive experiments on Leaf Segmentation Chal
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 
 ```
-@inproceedings{Guo2021LeafMaskTG,
+@inproceedings{guo2021leafmask,
   title={LeafMask: Towards Greater Accuracy on Leaf Segmentation},
-  author={Ruohao Guo and Liao Qu and Dantong Niu and Zhenbo Li and Jun Yue},
+  author={Guo, Ruohao and Qu, Liao and Niu, Dantong and Li, Zhenbo and Yue, Jun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1249--1258},
   year={2021}
 }
 ```
